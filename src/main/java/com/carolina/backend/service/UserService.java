@@ -2,7 +2,9 @@ package com.carolina.backend.service;
 
 import com.carolina.backend.model.User;
 import com.carolina.backend.repository.UserRepository;
-import com.carolina.dto.UserDto;
+import com.carolina.backend.dto.UserDto;
+import com.carolina.backend.security.Token;
+import com.carolina.backend.security.TokenUtil;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
