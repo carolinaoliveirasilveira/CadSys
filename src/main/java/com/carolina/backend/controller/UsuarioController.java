@@ -3,6 +3,7 @@ package com.carolina.backend.controller;
 import com.carolina.backend.model.User;
 import com.carolina.backend.repository.UserRepository;
 import com.carolina.backend.service.UserService;
+import com.carolina.dto.UserDto;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
