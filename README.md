@@ -1,6 +1,6 @@
 # CadSys
 
-O projeto **CadSys** é uma aplicação simples, porém bem estruturada e segura, que abrange tanto o back-end quanto o front-end. Desenvolvi esse sistema de cadastro com o objetivo de explorar conceitos fundamentais, como HTML, CSS, protocolo HTTP, JSON, JavaScript e banco de dados MySQL. Além disso, aprofundei meus conhecimentos em Spring Security, JWT (JSON Web Token), CORS e Filtros de Autenticação Personalizados, com foco em proporcionar uma autenticação segura e um controle de acesso eficiente na API.
+O projeto **CadSys** é uma aplicação full stack simples, porém bem estruturada e segura. Desenvolvi esse sistema de cadastro com o objetivo de explorar conceitos fundamentais, como HTML, CSS, protocolo HTTP, JSON, JavaScript e banco de dados MySQL. Além disso, aprofundei meus conhecimentos em Spring Security, JWT (JSON Web Token), CORS e Filtros de Autenticação Personalizados, com foco em proporcionar uma autenticação segura e um controle de acesso eficiente na API.
 
 
 # Tecnologias utilizadas
